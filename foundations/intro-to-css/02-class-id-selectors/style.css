@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+
+.odd {
+    background-color: #f08080;
+    font-family: "Verdana", "Dejavu Sans", sans-serif;
+    font-size: 16px;
+}
+
+.big {
+    font-size: 24px;
+}
+
+#blue {
+    color: #0000ff;
+    font-size: 36px;
+    font-family: 'Times New Roman', serif;
+}
+
+#green {
+    background-color: #93ff9e;
+    font-size: 24px;
+    font-family: 'Times New Roman', serif;
+    font-weight: bold;
+}
